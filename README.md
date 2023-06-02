@@ -20,6 +20,6 @@ Welcome to the repository for the Sly Cooper Randomizer project! This repo serve
 
 **[Sly Cooper Randomizer on GitHub](https://github.com/Cooper941/Sly-Cooper-Randomizer)**: This is the main repository is where the final mod will be assembled.
 
-**[CLPS2C](https://github.com/NiV-L-A/CLPS2C/releases)**: A program created by @niv that simplifies the creation of PNACH files, making them more readable and easier to work with.
+**[CLPS2C](https://github.com/NiV-L-A/CLPS2C/releases)**: A program created by NiV-L-A that simplifies the creation of PNACH files, making them more readable and easier to work with.
 
 **[Address Sheet](https://docs.google.com/spreadsheets/d/1ISxw587iICRDdaLJfLaTvJUaYkjGBReH4NY-yKN-Ip0/)**: A comprehensive spreadsheet containing numerous memory addresses that can be edited via PNACH.
