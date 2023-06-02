@@ -22,4 +22,4 @@ Welcome to the repository for the Sly Cooper Randomizer project! This repo serve
 
 **[CLPS2C](https://github.com/NiV-L-A/CLPS2C/releases)**: A program created by @niv that simplifies the creation of PNACH files, making them more readable and easier to work with.
 
-**[Address Sheet]()**: A comprehensive spreadsheet containing numerous memory addresses that can be edited via PNACH.
+**[Address Sheet](https://docs.google.com/spreadsheets/d/1ISxw587iICRDdaLJfLaTvJUaYkjGBReH4NY-yKN-Ip0/)**: A comprehensive spreadsheet containing numerous memory addresses that can be edited via PNACH.
