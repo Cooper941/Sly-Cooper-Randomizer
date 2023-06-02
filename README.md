@@ -18,7 +18,7 @@ Welcome to the repository for the Sly Cooper Randomizer project! This repo serve
 
 **[Sly Cooper Modding Discord](https://discord.gg/2GSXcEzPJA)**: Join our Discord server to participate in mod development discussions and coordinate with the community.
 
-**[Sly Cooper Randomizer on GitHub](https://github.com/Cooper941/Sly-Cooper-Randomizer)**: This is the main repository is where the final mod will be assembled.
+**[Sly Cooper Randomizer on GitHub](https://github.com/Cooper941/Sly-Cooper-Randomizer)**: This is the main repository where the final mod will be assembled.
 
 **[CLPS2C](https://github.com/NiV-L-A/CLPS2C/releases)**: A program created by NiV-L-A that simplifies the creation of PNACH files, making them more readable and easier to work with.
 
